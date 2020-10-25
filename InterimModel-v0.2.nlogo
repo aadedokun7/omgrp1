@@ -127,7 +127,7 @@ end
 
 to setup
   clear-all
-  import-drawing "Google_Earth_OperationMichael_small.png"
+  import-drawing "Capture.png"
 
   German-army
   British-army
